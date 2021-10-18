@@ -1,0 +1,6 @@
+#nexus
+begin sets;
+charset CO13 = 1-658\3; 
+charset CO11 = 2-658\3; 
+charset CO12 = 3-658\3;
+end;
